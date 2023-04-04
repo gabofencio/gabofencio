@@ -1,7 +1,7 @@
 ### Olabuenas 👋
 <h3 align="center">Nosé poner BIO</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 4 IQ User</h3>
 <p align="left">
 </p>
 
